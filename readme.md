@@ -1,5 +1,7 @@
 # TdaToolbox 
 
+#Please give credit to Coricos(https://github.com/Coricos), which is the person I forked it from. This specific package is more less the same as the one on Coricos, but with a more straightforward installation, i.e. it just requires conda more os less. 
+
 ## Introduction
 
 Topological Data Analysis, also abbreviated *TDA*, is a recent field that emerged from various works in applied topology and computational geometry. It aims at providing well-founded mathematical, statistical and algorithmic methods to exploit the topological and underlying geometric structures in data. My aim is to develop some tools in this repository, that may be applied to data science in general. Some of them already proved useful for classification tasks.
