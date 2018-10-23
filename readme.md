@@ -1,6 +1,12 @@
 # TdaToolbox 
 
-#Please give credit to Coricos(https://github.com/Coricos), which is the person I forked it from. This specific package is more less the same as the one on Coricos, but with a more straightforward installation, i.e. it just requires conda more os less. 
+Please give credit to Coricos(https://github.com/Coricos), which is the person I forked it from. This specific package is more less the same as the one on Coricos, but with a more straightforward installation, i.e. it just requires conda more os less. 
+
+## Instructions
+
+1. Install miniconda or any conda distribution
+2. After installation, create a virtualenv using conda, stick to python3.6
+3. run the line 
 
 ## Introduction
 
