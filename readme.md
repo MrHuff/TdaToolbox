@@ -5,8 +5,10 @@ Please give credit to Coricos(https://github.com/Coricos), which is the person I
 ## Instructions
 
 1. Install miniconda or any conda distribution
-2. After installation, create a virtualenv using conda, stick to python3.6
-3. run the line 
+2. After installation, create a virtualenv using conda, stick to python3.6. Preferably use: conda create --name myenv python=3.6
+3. run the line conda install -c conda-forge gudhi 
+4. run pip install -r requirements.txt
+5. Start TDA:ing!
 
 ## Introduction
 
